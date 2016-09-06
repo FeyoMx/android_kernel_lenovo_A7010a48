@@ -6,7 +6,7 @@
  *
  */
 
-#include "include/dt-bindings/clock/mt6735-clk.h"
+#include "dt-bindings/clock/mt6735-clk.h"
 #include <dt-bindings/interrupt-controller/arm-gic.h>
 #include <dt-bindings/interrupt-controller/irq.h>
 #include "mt6735-pinfunc.h"
